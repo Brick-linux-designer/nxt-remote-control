@@ -2,9 +2,9 @@
 # NXT Remote Control of Jfedor (2) (Jacek Fedoryński) #
 This application lets you control Lego Mindstorms NXT robots from Android devices via Bluetooth.
 
-Original version is available for free [on Google Play Store](https://play.google.com/store/apps/details?id=org.jfedor.nxtremotecontrol).
+Original version is available for free on [Google Play Store](https://play.google.com/store/apps/details?id=org.jfedor.nxtremotecontrol) and on Fdroid.
 
-And my (Brick-linux-designer' s) is availlable for free at [GitHub](https://www.github.com/Brick-linux-designer/nxt-remote-control/releases)
+And my (Brick-linux-designer' s) is availlable for free on [GitHub](https://www.github.com/Brick-linux-designer/nxt-remote-control/releases)
 
 A video of the original application in action:
 
