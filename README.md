@@ -1,5 +1,5 @@
 # NXT Remote Control
-## Forked from the repo of Jfedor2 (Jacek Fedoryński) #
+## Forked from the [repo of Jfedor2](https://github.com/jfedor2/nxt-remote-control) (Jacek Fedoryński) #
 
 This application lets you control Lego Mindstorms NXT robots from Android devices via Bluetooth.
 
