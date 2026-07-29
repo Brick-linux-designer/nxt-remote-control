@@ -1,4 +1,4 @@
-Apache License
+Apache License from the repo of Jfedor (original owner)
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
