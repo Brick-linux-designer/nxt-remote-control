@@ -2,14 +2,14 @@ apply plugin: 'com.android.application'
 apply plugin: 'org.jetbrains.kotlin.android'
 
 android {
-    namespace "org.jfedor.nxtremotecontrol"
-    compileSdk 36
+    namespace "org.edouard.nxtremotecontrol"
+    compileSdk 37
     buildToolsVersion '36.0.0'
 
     defaultConfig {
-        applicationId "org.jfedor.nxtremotecontrol"
+        applicationId "org.edouard.nxtremotecontrol"
         minSdk 21
-        targetSdk 36
+        targetSdk 37
     }
 
     buildTypes {
