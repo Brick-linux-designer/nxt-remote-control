@@ -1,8 +1,9 @@
-# Forked from: #
-# NXT Remote Control of Jfedor (2) (Jacek Fedoryński) #
+# NXT Remote Control
+## Forked from the repo of Jfedor2 (Jacek Fedoryński) #
+
 This application lets you control Lego Mindstorms NXT robots from Android devices via Bluetooth.
 
-Original version is available for free on [Google Play Store](https://play.google.com/store/apps/details?id=org.jfedor.nxtremotecontrol) and on Fdroid.
+Original version is available for free on [Google Play Store](https://play.google.com/store/apps/details?id=org.jfedor.nxtremotecontrol) and on [Fdroid](https://f-droid.org/fr/packages/org.jfedor.nxtremotecontrol/).
 
 And my (Brick-linux-designer' s) is availlable for free on [GitHub](https://www.github.com/Brick-linux-designer/nxt-remote-control/releases)
 
@@ -17,4 +18,4 @@ And two screenshots from original app:
 Feel free to contact the original creator 
 at `jfedor@jfedor.org` or me at if you have any questions or comments.
 
-If you're interested in the USB/Bluetooth protocol used to control the NXT brick, you can download the documentation from the [Lego Mindstorms site](http://www.lego.com/mindstorms/downloads). By the way, Lego's own Android application, [MINDdroid](https://play.google.com/store/apps/details?id=com.lego.minddroid), is also [open source](https://github.com/NXT/LEGO-MINDSTORMS-MINDdroid)
+If you're interested in the USB/Bluetooth protocol used to control the NXT brick, you can download the documentation from the [Lego Mindstorms site](http://www.lego.com/mindstorms/downloads). By the way, Lego's own Android application (actualy retired from the Play Store, [MINDdroid](https://play.google.com/store/apps/details?id=com.lego.minddroid), is also [open source](https://github.com/NXT/LEGO-MINDSTORMS-MINDdroid)
